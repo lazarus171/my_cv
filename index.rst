@@ -30,3 +30,6 @@ Lista puntata:
 #. Lista autonumerata
 #. Secondo
 #. Contorno
+
+:: image:: images/partita.jpg
+
