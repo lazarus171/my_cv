@@ -31,5 +31,6 @@ Lista puntata:
 #. Secondo
 #. Contorno
 
-:: image:: images/partita.jpg
+:: image:: /images/partita.jpg
 
+Testo ulteriore
