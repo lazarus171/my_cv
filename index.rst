@@ -9,9 +9,9 @@ Testo predefinito
 
 Nel mezzo del *cammin* di nostra vita
 
-mi ritrovai per una **selva** oscura
+mi ritrovai per una ***selva*** oscura
 
-che la diritta via era\ 'smarrita' \
+che la ``diritta`` via era smarrita
 
 	Prova indentazione
 	
@@ -19,14 +19,14 @@ che la diritta via era\ 'smarrita' \
 	
 		Ulteriore indentazione
 
-Lista puntata:
+Lista puntata
 	* Prima voce
 	* Seconda voce
 	  su due righe
 	  
-	1.	Lista numerata manuale
-	2. 	Seconda voce
+1.	Lista numerata manuale
+2. 	Seconda voce
 	
-		#. Lista autonumerata
-		#. Secondo
-		#. Contorno
+#. Lista autonumerata
+#. Secondo
+#. Contorno
