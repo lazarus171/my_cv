@@ -19,7 +19,7 @@ che la ``diritta`` via era smarrita
 	
 		Ulteriore indentazione
 
-Lista puntata
+Lista puntata:
 	* Prima voce
 	* Seconda voce
 	  su due righe
