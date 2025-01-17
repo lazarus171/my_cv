@@ -11,7 +11,7 @@ Nel mezzo del *cammin* di nostra vita
 
 mi ritrovai per una **selva** oscura
 
-che la diritta via era 'smarrita'
+che la diritta via era\ 'smarrita' \
 
 	Prova indentazione
 	
